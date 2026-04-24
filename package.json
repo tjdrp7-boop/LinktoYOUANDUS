@@ -1,0 +1,11 @@
+{
+  "name": "youandus-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YOUANDUS Pre-Order 2026 Landing Page (Hyundai Department Store Pop-up)",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["landing-page", "static", "youandus"]
+}
